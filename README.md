@@ -44,16 +44,16 @@ endmodule
 ```
 ## RTL diagram:
 
-<img src= " https://github.com/abinayasangeetha/Experiment--02-Implementation-of-combinational-logic-/assets/119393675/05759142-e4eb-4369-ae47-b08e60acb5c0" width=475 height=475>
+<img src= "https://github.com/abinayasangeetha/Experiment--02-Implementation-of-combinational-logic-/assets/119393675/05759142-e4eb-4369-ae47-b08e60acb5c0" width=475 height=475>
 
 
 
 ## Truthtable:
-<img src= " https://github.com/abinayasangeetha/Experiment--02-Implementation-of-combinational-logic-/assets/119393675/334e16b2-5538-47ed-bd68-6d7198e60eba" width=475 height=475>
+<img src= "https://github.com/abinayasangeetha/Experiment--02-Implementation-of-combinational-logic-/assets/119393675/334e16b2-5538-47ed-bd68-6d7198e60eba" width=475 height=475>
 
 
 ## Output waveform:
-<img src= " https://github.com/abinayasangeetha/Experiment--02-Implementation-of-combinational-logic-/assets/119393675/97c05eff-510b-4f19-ac66-cb7255916a04" width=475 height=475>
+<img src= "https://github.com/abinayasangeetha/Experiment--02-Implementation-of-combinational-logic-/assets/119393675/97c05eff-510b-4f19-ac66-cb7255916a04" width=475 height=475>
 
 
 ## Result:
