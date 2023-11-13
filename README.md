@@ -2,7 +2,7 @@
 NAME : ABINAYA S
 REG NO: 212222230002
 ```
-# EXP 02 Implementation of combinational logic
+# Exp 02 Implementation of combinational logic
 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
